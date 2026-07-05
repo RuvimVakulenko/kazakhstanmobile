@@ -1,0 +1,3260 @@
+{
+    "cache": [
+        {
+            "id": 1,
+            "name": "anim.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/anim",
+            "bytes": [
+                10942464
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 2,
+            "name": "cuts.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/anim",
+            "bytes": [
+                16029696
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 3,
+            "name": "ped.ifp",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/anim",
+            "bytes": [
+                1433248
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 4,
+            "name": "AudioEventHistory.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/CONFIG",
+            "bytes": [
+                114056
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 5,
+            "name": "BankLkup.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/CONFIG",
+            "bytes": [
+                8520
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 6,
+            "name": "BankSlot.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/CONFIG",
+            "bytes": [
+                216902
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 7,
+            "name": "EventVol.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/CONFIG",
+            "bytes": [
+                45402
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 8,
+            "name": "PakFiles.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/CONFIG",
+            "bytes": [
+                468
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 9,
+            "name": "SOUNDINF.DAT",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/CONFIG",
+            "bytes": [
+                746760
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 10,
+            "name": "StrmPaks.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/CONFIG",
+            "bytes": [
+                272
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 11,
+            "name": "TrakLkup.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/CONFIG",
+            "bytes": [
+                23064
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 12,
+            "name": "TRKHEAD.DAT",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/CONFIG",
+            "bytes": [
+                15506696
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 13,
+            "name": "FEET.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/SFX",
+            "bytes": [
+                138118
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 14,
+            "name": "FEET.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/SFX",
+            "bytes": [
+                1220
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 15,
+            "name": "GENRL.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/SFX",
+            "bytes": [
+                9362373
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 16,
+            "name": "GENRL.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/SFX",
+            "bytes": [
+                20868
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 17,
+            "name": "PAIN_A.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/SFX",
+            "bytes": [
+                3247335
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 18,
+            "name": "PAIN_A.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/SFX",
+            "bytes": [
+                12836
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 19,
+            "name": "AA.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 20,
+            "name": "AA.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                1522
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 21,
+            "name": "ADVERTS.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                3516982
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 22,
+            "name": "ADVERTS.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                1591
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 23,
+            "name": "AMBIENCE.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                22719112
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 24,
+            "name": "AMBIENCE.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                924
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 25,
+            "name": "BEATS.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                9415375
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 26,
+            "name": "BEATS.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                234
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 27,
+            "name": "CH.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 28,
+            "name": "CH.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                2994
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 29,
+            "name": "CO.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 30,
+            "name": "CO.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                3569
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 31,
+            "name": "CR.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 32,
+            "name": "CR.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                3592
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 33,
+            "name": "CUTSCENE.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                301175
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 34,
+            "name": "CUTSCENE.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                3247
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 35,
+            "name": "DS.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 36,
+            "name": "DS.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                4121
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 37,
+            "name": "HC.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 38,
+            "name": "HC.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                2649
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 39,
+            "name": "MH.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 40,
+            "name": "MH.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                3500
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 41,
+            "name": "MR.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 42,
+            "name": "MR.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                3385
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 43,
+            "name": "NJ.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 44,
+            "name": "NJ.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                2994
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 45,
+            "name": "RE.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 46,
+            "name": "RE.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                3707
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 47,
+            "name": "RG.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 48,
+            "name": "RG.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                3914
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 49,
+            "name": "TK.osw",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                15462
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 50,
+            "name": "TK.osw.idx",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/audio/STREAMS",
+            "bytes": [
+                2327
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 51,
+            "name": "360Default1280x720.cfg",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                10898
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 52,
+            "name": "360Default960x720.cfg",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                10888
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 53,
+            "name": "animgrp.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                3096
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 54,
+            "name": "ar_stats.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                3593
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 55,
+            "name": "carcols.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                15361
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 56,
+            "name": "cargrp.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                3909
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 57,
+            "name": "carmods.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                8763
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 58,
+            "name": "clothes.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                5317
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 59,
+            "name": "colorcycle.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                13612
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 60,
+            "name": "Cop.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                4908
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 61,
+            "name": "Fireman.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                4435
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 62,
+            "name": "GangMbr.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                6194
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 63,
+            "name": "Indoors.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                2809
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 64,
+            "name": "m_empty.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                982
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 65,
+            "name": "m_norm.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                4142
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 66,
+            "name": "m_plyr.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                2000
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 67,
+            "name": "m_steal.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                3663
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 68,
+            "name": "m_tough.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                3980
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 69,
+            "name": "m_weak.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                4062
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 70,
+            "name": "MISSION.grp",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                2758
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 71,
+            "name": "R_Norm.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                6450
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 72,
+            "name": "R_Tough.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                6378
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 73,
+            "name": "R_Weak.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                6289
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 74,
+            "name": "RANDOM.grp",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                4623
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 75,
+            "name": "RANDOM.ped",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                4142
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 76,
+            "name": "RANDOM2.grp",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision/Allowed",
+            "bytes": [
+                4623
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 77,
+            "name": "PedEvent.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/Decision",
+            "bytes": [
+                1298
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 78,
+            "name": "default.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                577
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 79,
+            "name": "default.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                4679
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 80,
+            "name": "fonts.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                3576
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 81,
+            "name": "furnitur.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                16480
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 82,
+            "name": "gridref.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                1498
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 83,
+            "name": "gta.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                3776
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 84,
+            "name": "handling.cfg",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                64532
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 85,
+            "name": "info.zon",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                28139
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 86,
+            "name": "map.zon",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                436
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 87,
+            "name": "Audiozon.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                10802
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 88,
+            "name": "countn2.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                35439
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 89,
+            "name": "countn2.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                41665
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 90,
+            "name": "countrye.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                34529
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 91,
+            "name": "countrye.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                49301
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 92,
+            "name": "countryN.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                11308
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 93,
+            "name": "countryN.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                14407
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 94,
+            "name": "countryS.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                18450
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 95,
+            "name": "countryS.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                33835
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 96,
+            "name": "countryW.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                19704
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 97,
+            "name": "countryw.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                35057
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 98,
+            "name": "counxref.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/country",
+            "bytes": [
+                8494
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 99,
+            "name": "cull.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                104318
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 100,
+            "name": "barriers.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/generic",
+            "bytes": [
+                1437
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 101,
+            "name": "dynamic.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/generic",
+            "bytes": [
+                4611
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 102,
+            "name": "dynamic2.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/generic",
+            "bytes": [
+                10510
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 103,
+            "name": "multiobj.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/generic",
+            "bytes": [
+                5020
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 104,
+            "name": "procobj.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/generic",
+            "bytes": [
+                4755
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 105,
+            "name": "vegepart.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/generic",
+            "bytes": [
+                8062
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 106,
+            "name": "gen_int1.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                2747
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 107,
+            "name": "gen_int1.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                21074
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 108,
+            "name": "gen_int2.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                10941
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 109,
+            "name": "gen_int2.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                1683
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 110,
+            "name": "gen_int3.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                3252
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 111,
+            "name": "gen_int3.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                2091
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 112,
+            "name": "gen_int4.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                2323
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 113,
+            "name": "gen_int4.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                1185
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 114,
+            "name": "gen_int5.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                4682
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 115,
+            "name": "gen_int5.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                2988
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 116,
+            "name": "gen_intb.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                5459
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 117,
+            "name": "gen_intb.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                1626
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 118,
+            "name": "int_cont.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                385
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 119,
+            "name": "int_cont.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                910
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 120,
+            "name": "int_LA.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                6004
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 121,
+            "name": "int_LA.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                1312
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 122,
+            "name": "int_SF.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                1260
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 123,
+            "name": "int_SF.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                1334
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 124,
+            "name": "int_veg.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                4684
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 125,
+            "name": "int_veg.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                5299
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 126,
+            "name": "propext.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                2340
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 127,
+            "name": "props.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                26326
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 128,
+            "name": "props2.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                21174
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 129,
+            "name": "savehous.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                1724
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 130,
+            "name": "savehous.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                2959
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 131,
+            "name": "stadint.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                2851
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 132,
+            "name": "stadint.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/interior",
+            "bytes": [
+                6299
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 133,
+            "name": "LAe.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                12249
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 134,
+            "name": "LAe.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                27328
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 135,
+            "name": "LAe2.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                21907
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 136,
+            "name": "LAe2.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                33651
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 137,
+            "name": "LAhills.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                10601
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 138,
+            "name": "LAhills.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                34506
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 139,
+            "name": "LAn.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                11107
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 140,
+            "name": "LAn.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                14264
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 141,
+            "name": "LAn2.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                9565
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 142,
+            "name": "LAn2.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                13185
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 143,
+            "name": "LAs.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                12575
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 144,
+            "name": "LAs.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                22414
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 145,
+            "name": "LAs2.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                12364
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 146,
+            "name": "LAs2.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                38441
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 147,
+            "name": "LAw.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                9412
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 148,
+            "name": "LAw.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                15105
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 149,
+            "name": "LAw2.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                11060
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 150,
+            "name": "LAw2.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                18232
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 151,
+            "name": "LaWn.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                13092
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 152,
+            "name": "LaWn.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                24330
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 153,
+            "name": "LAxref.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/LA",
+            "bytes": [
+                10477
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 154,
+            "name": "leveldes.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/leveldes",
+            "bytes": [
+                360
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 155,
+            "name": "leveldes.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/leveldes",
+            "bytes": [
+                165
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 156,
+            "name": "levelmap.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/leveldes",
+            "bytes": [
+                3194
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 157,
+            "name": "levelmap.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/leveldes",
+            "bytes": [
+                4675
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 158,
+            "name": "levelxre.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/leveldes",
+            "bytes": [
+                9897
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 159,
+            "name": "seabed.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/leveldes",
+            "bytes": [
+                12039
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 160,
+            "name": "seabed.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/leveldes",
+            "bytes": [
+                23342
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 161,
+            "name": "occlu.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                1012
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 162,
+            "name": "occluint.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                2338
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 163,
+            "name": "occluLA.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                35956
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 164,
+            "name": "occlusf.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                16114
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 165,
+            "name": "occluveg.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                17944
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 166,
+            "name": "paths.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                2658607
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 167,
+            "name": "paths2.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                2292241
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 168,
+            "name": "paths3.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                2428066
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 169,
+            "name": "paths4.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                253014
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 170,
+            "name": "paths5.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                457678
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 171,
+            "name": "SFe.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                16224
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 172,
+            "name": "SFe.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                26707
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 173,
+            "name": "SFn.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                11219
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 174,
+            "name": "SFn.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                26201
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 175,
+            "name": "SFs.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                18948
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 176,
+            "name": "SFs.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                37969
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 177,
+            "name": "SFSe.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                30227
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 178,
+            "name": "SFSe.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                53359
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 179,
+            "name": "SFw.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                16473
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 180,
+            "name": "SFw.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                29247
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 181,
+            "name": "SFxref.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/SF",
+            "bytes": [
+                4631
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 182,
+            "name": "tunnels.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps",
+            "bytes": [
+                3230
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 183,
+            "name": "vegasE.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                35542
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 184,
+            "name": "vegasE.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                61084
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 185,
+            "name": "VegasN.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                23715
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 186,
+            "name": "vegasN.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                36651
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 187,
+            "name": "VegasS.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                18656
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 188,
+            "name": "vegasS.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                30343
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 189,
+            "name": "VegasW.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                25456
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 190,
+            "name": "vegasW.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                49867
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 191,
+            "name": "vegaxref.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                5751
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 192,
+            "name": "vegaxref.ipl",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/vegas",
+            "bytes": [
+                3661
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 193,
+            "name": "veh_mods.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/maps/veh_mods",
+            "bytes": [
+                7323
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 194,
+            "name": "melee.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                6306
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 195,
+            "name": "object.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                126118
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 196,
+            "name": "carrec.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/paths",
+            "bytes": [
+                2357248
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 197,
+            "name": "ROADBLOX.DAT",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/paths",
+            "bytes": [
+                1304
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 198,
+            "name": "tracks.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/paths",
+            "bytes": [
+                25474
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 199,
+            "name": "tracks2.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/paths",
+            "bytes": [
+                1892
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 200,
+            "name": "tracks3.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/paths",
+            "bytes": [
+                8328
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 201,
+            "name": "tracks4.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/paths",
+            "bytes": [
+                18347
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 202,
+            "name": "ped.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                1276
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 203,
+            "name": "pedgrp.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                5792
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 204,
+            "name": "peds.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                33401
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 205,
+            "name": "pedstats.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                3604
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 206,
+            "name": "plants.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                9887
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 207,
+            "name": "popcycle.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                127108
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 208,
+            "name": "procobj.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                10019
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 209,
+            "name": "mainV1.scm",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/script",
+            "bytes": [
+                3169778
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 210,
+            "name": "scriptv1.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data/script",
+            "bytes": [
+                561152
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 211,
+            "name": "shopping.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                46875
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 212,
+            "name": "ShopUVs.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                30509
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 213,
+            "name": "statdisp.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                7292
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 214,
+            "name": "surface.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                576
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 215,
+            "name": "surfaud.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                6530
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 216,
+            "name": "surfinfo.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                28106
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 217,
+            "name": "timecyc.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                40037
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 218,
+            "name": "TouchDefaultPhone3x2.cfg",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                10912
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 219,
+            "name": "TouchDefaultPhoneWidescreen.cfg",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                10924
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 220,
+            "name": "TouchDefaultTablet4x3.cfg",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                10926
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 221,
+            "name": "TouchDefaultTabletWidescreen.cfg",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                10923
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 222,
+            "name": "txdcut.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                478
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 223,
+            "name": "vehicles.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                21093
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 224,
+            "name": "water.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                70099
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 225,
+            "name": "water1.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                60063
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 226,
+            "name": "weapon.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/data",
+            "bytes": [
+                11602
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 227,
+            "name": "arial_bold.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                352224
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 228,
+            "name": "arial.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                367112
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 229,
+            "name": "georgia.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                219712
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 230,
+            "name": "gtaweap3.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                104004
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 231,
+            "name": "impact.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                206784
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 232,
+            "name": "palatino_linotype.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                489884
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 233,
+            "name": "quartz_ms.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                51032
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 234,
+            "name": "sampaux3.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                6624
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 235,
+            "name": "segoe_print.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                172448
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 236,
+            "name": "segoe_script.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                620204
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 237,
+            "name": "tahoma.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                939280
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 238,
+            "name": "webdings.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                120560
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 239,
+            "name": "wingding.ttf",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/fonts",
+            "bytes": [
+                82180
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 240,
+            "name": "gta_sa.set",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache",
+            "bytes": [
+                159
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 241,
+            "name": "peds.col",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/models/coll",
+            "bytes": [
+                21477
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 242,
+            "name": "vehicles.col",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/models/coll",
+            "bytes": [
+                1096
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 243,
+            "name": "weapons.col",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/models/coll",
+            "bytes": [
+                560
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 244,
+            "name": "effects.fxp",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/models",
+            "bytes": [
+                616708,
+                646501
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 245,
+            "name": "MINFO.BIN",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/models",
+            "bytes": [
+                41100
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 246,
+            "name": "gta.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                3789
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 247,
+            "name": "handling.cfg",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                64532
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 248,
+            "name": "main.scm",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                96997
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 249,
+            "name": "peds.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                36369
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 250,
+            "name": "SAMP.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                89945
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 251,
+            "name": "svconfig.ini",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP/sampvoice",
+            "bytes": [
+                138
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 252,
+            "name": "script.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                184320
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 253,
+            "name": "settings.ini",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                399
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 254,
+            "name": "TIMECYC.DAT",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                40037
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 255,
+            "name": "tracks2.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                1
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 256,
+            "name": "tracks4.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                1
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 257,
+            "name": "vehicleAudioSettings.cfg",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                26766
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 258,
+            "name": "vehicles.ide",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                25709
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 259,
+            "name": "WEAPON.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/SAMP",
+            "bytes": [
+                11585
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 260,
+            "name": "stream.ini",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache",
+            "bytes": [
+                197
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 261,
+            "name": "gta_int.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb",
+            "bytes": [
+                44836864
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 262,
+            "name": "gta_int.dxt.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                48496978
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 263,
+            "name": "gta_int.dxt.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                125994
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 264,
+            "name": "gta_int.dxt.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                10168
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 265,
+            "name": "gta_int.etc.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                48441188
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 266,
+            "name": "gta_int.etc.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                141674
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 267,
+            "name": "gta_int.etc.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                10168
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 268,
+            "name": "gta_int.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                48496978
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 269,
+            "name": "gta_int.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                125994
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 270,
+            "name": "gta_int.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                10168
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 271,
+            "name": "gta_int.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta_int",
+            "bytes": [
+                159551
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 272,
+            "name": "gta3.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb",
+            "bytes": [
+                283514880
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 273,
+            "name": "gta3.dxt.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                185311596,
+                272077024
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 274,
+            "name": "gta3.dxt.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                525340,
+                727116
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 275,
+            "name": "gta3.dxt.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                49784,
+                49808
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 276,
+            "name": "gta3.etc.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                185725552,
+                271410030
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 277,
+            "name": "gta3.etc.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                575452,
+                770764
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 278,
+            "name": "gta3.etc.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                49784,
+                49808
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 279,
+            "name": "gta3.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                185311596,
+                272077024
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 280,
+            "name": "gta3.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                525340,
+                727116
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 281,
+            "name": "gta3.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                49784,
+                49808
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 282,
+            "name": "gta3.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                792665,
+                739036
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 283,
+            "name": "menu.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/menu",
+            "bytes": [
+                10822324
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 284,
+            "name": "menu.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/menu",
+            "bytes": [
+                860
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 285,
+            "name": "menu.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/menu",
+            "bytes": [
+                176
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 286,
+            "name": "menu.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/menu",
+            "bytes": [
+                3342
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 287,
+            "name": "mobile.dxt.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                5988982
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 288,
+            "name": "mobile.dxt.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                31156
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 289,
+            "name": "mobile.dxt.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                792
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 290,
+            "name": "mobile.etc.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                7119568
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 291,
+            "name": "mobile.etc.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                31156
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 292,
+            "name": "mobile.etc.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                792
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 293,
+            "name": "mobile.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                7119568
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 294,
+            "name": "mobile.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                31156
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 295,
+            "name": "mobile.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                792
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 296,
+            "name": "mobile.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/mobile",
+            "bytes": [
+                13072
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 297,
+            "name": "player.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb",
+            "bytes": [
+                16412672
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 298,
+            "name": "player.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/player",
+            "bytes": [
+                6569414
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 299,
+            "name": "player.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/player",
+            "bytes": [
+                6940
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 300,
+            "name": "player.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/player",
+            "bytes": [
+                1580
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 301,
+            "name": "player.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/player",
+            "bytes": [
+                27810
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 302,
+            "name": "playerhi.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/playerhi",
+            "bytes": [
+                27658902
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 303,
+            "name": "playerhi.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/playerhi",
+            "bytes": [
+                6940
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 304,
+            "name": "playerhi.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/playerhi",
+            "bytes": [
+                1580
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 305,
+            "name": "playerhi.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/playerhi",
+            "bytes": [
+                28087
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 306,
+            "name": "samp.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb",
+            "bytes": [
+                56563712
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 307,
+            "name": "samp.dxt.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                25017024
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 308,
+            "name": "samp.dxt.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                93824
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 309,
+            "name": "samp.dxt.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                6836
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 310,
+            "name": "samp.etc.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                25017024
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 311,
+            "name": "samp.etc.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                93824
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 312,
+            "name": "samp.etc.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                6836
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 313,
+            "name": "samp.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                25017024
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 314,
+            "name": "samp.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                93824
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 315,
+            "name": "samp.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                6836
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 316,
+            "name": "samp.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/samp",
+            "bytes": [
+                84862
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 317,
+            "name": "SAMPCOL.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb",
+            "bytes": [
+                4253696
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 318,
+            "name": "touch.img",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb",
+            "bytes": [
+                21626880
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 319,
+            "name": "touch.dxt.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                3110744
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 320,
+            "name": "touch.dxt.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                12352
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 321,
+            "name": "touch.dxt.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                716
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 322,
+            "name": "touch.etc.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                3110744
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 323,
+            "name": "touch.etc.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                12352
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 324,
+            "name": "touch.etc.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                716
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 325,
+            "name": "touch.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                3110744
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 326,
+            "name": "touch.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                12352
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 327,
+            "name": "touch.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                716
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 328,
+            "name": "touch.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                9094
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 329,
+            "name": "touch.unc.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                33150952
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 330,
+            "name": "touch.unc.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                47840
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 331,
+            "name": "touch.unc.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/touch",
+            "bytes": [
+                6156
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 332,
+            "name": "txd.dxt.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                8981750
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 333,
+            "name": "txd.dxt.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                31712
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 334,
+            "name": "txd.dxt.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                2376
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 335,
+            "name": "txd.etc.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                10479018
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 336,
+            "name": "txd.etc.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                50144
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 337,
+            "name": "txd.etc.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                2376
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 338,
+            "name": "txd.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                8773774
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 339,
+            "name": "txd.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                25888
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 340,
+            "name": "txd.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                2376
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 341,
+            "name": "txd.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/txd",
+            "bytes": [
+                43111
+            ],
+            "gpu": ""
+        }
+    ],
+    "cacheMode": [
+        {
+            "id": 244,
+            "name": "effects.fxp",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/models",
+            "bytes": [
+                616708,
+                646501
+            ],
+            "gpu": ""
+        },
+        {
+            "id": 273,
+            "name": "gta3.dxt.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                185311596,
+                272077024
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 274,
+            "name": "gta3.dxt.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                525340,
+                727116
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 275,
+            "name": "gta3.dxt.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                49784,
+                49808
+            ],
+            "gpu": "A"
+        },
+        {
+            "id": 276,
+            "name": "gta3.etc.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                185725552,
+                271410030
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 277,
+            "name": "gta3.etc.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                575452,
+                770764
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 278,
+            "name": "gta3.etc.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                49784,
+                49808
+            ],
+            "gpu": "M"
+        },
+        {
+            "id": 279,
+            "name": "gta3.pvr.dat",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                185311596,
+                272077024
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 280,
+            "name": "gta3.pvr.tmb",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                525340,
+                727116
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 281,
+            "name": "gta3.pvr.toc",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                49784,
+                49808
+            ],
+            "gpu": "PT"
+        },
+        {
+            "id": 282,
+            "name": "gta3.txt",
+            "path": "C:/SAMP-Mobile-Launcher-RN-main/distributions/cache/texdb/gta3",
+            "bytes": [
+                792665,
+                739036
+            ],
+            "gpu": ""
+        }
+    ],
+    "projectName": "Touch Mobile",
+    "packageName": "com.touch.mobile.dark",
+    "versionHash": "c3jyg7",
+    "rss": "https://touch-rp.com/api/launcer/news",
+    "cdnCache": "https://game.touch-rp.com/mobile/cache",
+    "cdnLauncher": "https://game.touch-rp.com/mobile/launcher",
+    "filesContinue": [
+        "settings.ini",
+        "gta_sa.set",
+        "svconfig.ini"
+    ],
+    "launcher": {
+        "appVersion": "0.0.39",
+        "name": "app-release.apk",
+        "hash": "aa885c08fbad3ab1b3faaa1ca91e8bcc",
+        "mtime": 1783210345,
+        "bytes": 26735042
+    },
+    "servers": [
+        {
+            "id": 1,
+            "show": true,
+            "version": "1.0",
+            "icon": "https://game.touch-rp.com/mobile/image/pro_icon.jpeg",
+            "events": [
+                {
+                    "title": "Акция x2",
+                    "style": "red"
+                },
+                {
+                    "title": "Контейнеры",
+                    "style": "blue"
+                }
+            ],
+            "slot": 1000,
+            "bonus": true,
+            "name": "KARAGANDA",
+            "description": "SA-MP Mobile",
+            "address": "188.127.241.8:1323",
+            "sampVersion": "0.3.7"
+        },
+        {
+            "id": 100,
+            "show": false,
+            "version": "1.0",
+            "icon": "https://game.touch-rp.com/mobile/image/pro_icon.jpeg",
+            "events": [
+                {
+                    "title": "Акция x2",
+                    "style": "red"
+                },
+                {
+                    "title": "Контейнеры",
+                    "style": "blue"
+                }
+            ],
+            "slot": 1000,
+            "bonus": false,
+            "name": "Test",
+            "description": "SA-MP Mobile",
+            "address": "127.0.0.1:7777",
+            "sampVersion": "0.3.7"
+        }
+    ]
+}
